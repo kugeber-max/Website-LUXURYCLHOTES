@@ -1,0 +1,6 @@
+{
+  "name": "LUXURY CLOTHES — Premium Denim & Contemporary Fashion",
+  "description": "Discover high-end luxury denim, iconic silhouettes, and contemporary editorial fashion by LUXURY CLOTHES.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
